@@ -1,0 +1,17 @@
+# ESP-IDF SDK + toolchain (installed separately, not committed)
+/voice_tool_chain/
+
+# Other voiceModule projects not part of this push
+/voiceModule/ClimateCraft/ClimateVoice/
+/voiceModule/ClimateCraft/ClimateVoice_V1_Relay_Test/
+/voiceModule/ClimateCraft/ClimateVoice_V1_Relay_Test.zip
+/voiceModule/ClimateCraft/climatevoice_audio/
+
+# ClimateVoice_SR build artifacts (regenerate via idf.py build)
+/voiceModule/ClimateCraft/ClimateVoice_SR/build/
+/voiceModule/ClimateCraft/ClimateVoice_SR/main/build/
+/voiceModule/ClimateCraft/ClimateVoice_SR/managed_components/
+/voiceModule/ClimateCraft/ClimateVoice_SR/sdkconfig
+/voiceModule/ClimateCraft/ClimateVoice_SR/sdkconfig.old
+/voiceModule/ClimateCraft/ClimateVoice_SR/build_log.txt
+/voiceModule/ClimateCraft/ClimateVoice_SR/main.zip
